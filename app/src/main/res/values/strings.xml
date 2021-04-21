@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+
+    <string name="option1">School</string>
+    <string name="option2">Hospital</string>
+    <string name="option3">Airport</string>
+    <string name="option4">Restaurant</string>
+    <string name="welcome_to_school_activity">Welcome to School Activity</string>
+    <string name="welcome_to_hospital_activity">Welcome to Hospital Activity</string>
+    <string name="welcome_to_airport_activity">Welcome to Airport Activity</string>
+    <string name="welcome_to_restaurant_activity">Welcome to Restaurant Activity</string>
+
+</resources>
